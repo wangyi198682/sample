@@ -172,11 +172,11 @@
             <version>2.2.8</version>
         </dependency>
 
-        <dependency>
+        <!--dependency>
             <groupId>org.noo</groupId>
             <artifactId>mybatis-paging</artifactId>
             <version>0.1</version>
-        </dependency>
+        </dependency-->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
