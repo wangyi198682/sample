@@ -1,0 +1,39 @@
+
+   "took": 670,
+   "timed_out": false,
+   "_shards": {
+      "total": 8,
+      "successful": 8,
+      "failed": 0
+   },
+   "hits": {
+      "total": 74,
+      "max_score": 1,
+      "hits": [
+         {
+            "_index": "2000_270_0",
+            "_type": "Medical",
+            "_id": "02:17447847049147026174478:174159",
+            "_score": 1,
+            "_source": {
+               "memberId": "0x7b93910446f91928e23e1043dfdf5bcf",
+               "memberFirstName": "Uri",
+               "memberMiddleName": "Prayag",
+               "memberLastName": "Dubofsky"
+            }
+         }, 
+         {
+            "_index": "2000_270_0",
+            "_type": "Medical",
+            "_id": "02:17447847049147026174478:174159",
+            "_score": 1,
+            "_source": {
+               "memberId": "0x7b93910446f91928e23e1043dfdf5bcG",
+               "memberFirstName": "Uri",
+               "memberMiddleName": "Prayag",
+               "memberLastName": "Dubofsky"
+            }
+         }
+     ] 
+   }
+}
